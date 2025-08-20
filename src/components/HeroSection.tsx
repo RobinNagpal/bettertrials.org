@@ -9,16 +9,12 @@ export default function HeroSection() {
             <span className="text-primary">Empowering Hospitals</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted mb-8 max-w-4xl mx-auto">
-            A secure, hospital-focused platform that simplifies clinical trial
-            onboarding and helps doctors identify eligible patients. Making
-            trials faster, more efficient, and more successful.
+            A secure, hospital-focused platform that simplifies clinical trial onboarding and helps doctors identify eligible patients. Making trials faster,
+            more efficient, and more successful.
           </p>
           <p className="text-lg text-muted mb-12 max-w-3xl mx-auto">
-            When research takes place in a hospital context, scientists have a
-            more direct connection to the needs of the patients they serve. We
-            want to enable hospitals with better technology so that more
-            clinical trials can happen at the hospitals and patients can have
-            more options.
+            When research takes place in a hospital context, scientists have a more direct connection to the needs of the patients they serve. We want to enable
+            hospitals with better technology so that more clinical trials can happen at the hospitals and patients can have more options.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

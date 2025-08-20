@@ -10,28 +10,16 @@ export default function Navigation() {
           </div>
           <div className="hidden md:block">
             <div className="ml-10 flex items-baseline space-x-4">
-              <a
-                href="#solution"
-                className="text-muted hover:text-foreground px-3 py-2 rounded-md text-sm font-medium transition-colors"
-              >
+              <a href="#solution" className="text-muted hover:text-foreground px-3 py-2 rounded-md text-sm font-medium transition-colors">
                 Solutions
               </a>
-              <a
-                href="#how-it-works"
-                className="text-muted hover:text-foreground px-3 py-2 rounded-md text-sm font-medium transition-colors"
-              >
+              <a href="#how-it-works" className="text-muted hover:text-foreground px-3 py-2 rounded-md text-sm font-medium transition-colors">
                 How It Works
               </a>
-              <a
-                href="#security"
-                className="text-muted hover:text-foreground px-3 py-2 rounded-md text-sm font-medium transition-colors"
-              >
+              <a href="#security" className="text-muted hover:text-foreground px-3 py-2 rounded-md text-sm font-medium transition-colors">
                 Security
               </a>
-              <a
-                href="#contact"
-                className="bg-primary hover:bg-primary-hover text-white px-4 py-2 rounded-md text-sm font-medium transition-colors"
-              >
+              <a href="#contact" className="bg-primary hover:bg-primary-hover text-white px-4 py-2 rounded-md text-sm font-medium transition-colors">
                 Book a Demo
               </a>
             </div>

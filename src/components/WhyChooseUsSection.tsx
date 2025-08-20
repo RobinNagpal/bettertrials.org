@@ -3,20 +3,13 @@ export default function WhyChooseUsSection() {
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-            Why Choose Us?
-          </h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">Why Choose Us?</h2>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="text-center">
             <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-6">
-              <svg
-                className="w-8 h-8 text-primary"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
@@ -25,22 +18,13 @@ export default function WhyChooseUsSection() {
                 />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold text-foreground mb-4">
-              Hospital Centric
-            </h3>
-            <p className="text-muted">
-              Built for research units and physicians first.
-            </p>
+            <h3 className="text-xl font-semibold text-foreground mb-4">Hospital Centric</h3>
+            <p className="text-muted">Built for research units and physicians first.</p>
           </div>
 
           <div className="text-center">
             <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-6">
-              <svg
-                className="w-8 h-8 text-primary"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
@@ -49,48 +33,23 @@ export default function WhyChooseUsSection() {
                 />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold text-foreground mb-4">
-              Compliance Friendly
-            </h3>
-            <p className="text-muted">
-              No patient data leaves hospital systems; everything runs locally
-              with safeguards.
-            </p>
+            <h3 className="text-xl font-semibold text-foreground mb-4">Compliance Friendly</h3>
+            <p className="text-muted">No patient data leaves hospital systems; everything runs locally with safeguards.</p>
           </div>
 
           <div className="text-center">
             <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-6">
-              <svg
-                className="w-8 h-8 text-primary"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M13 10V3L4 14h7v7l9-11h-7z"
-                />
+              <svg className="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold text-foreground mb-4">
-              Reduce Burden
-            </h3>
-            <p className="text-muted">
-              Eliminate repetitive tasks like tracking contracts or retyping
-              data.
-            </p>
+            <h3 className="text-xl font-semibold text-foreground mb-4">Reduce Burden</h3>
+            <p className="text-muted">Eliminate repetitive tasks like tracking contracts or retyping data.</p>
           </div>
 
           <div className="text-center">
             <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-6">
-              <svg
-                className="w-8 h-8 text-primary"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
@@ -99,13 +58,8 @@ export default function WhyChooseUsSection() {
                 />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold text-foreground mb-4">
-              Practical Technology
-            </h3>
-            <p className="text-muted">
-              Simple dashboards and screening tools. Fast to adopt, minimal
-              training required.
-            </p>
+            <h3 className="text-xl font-semibold text-foreground mb-4">Practical Technology</h3>
+            <p className="text-muted">Simple dashboards and screening tools. Fast to adopt, minimal training required.</p>
           </div>
         </div>
       </div>

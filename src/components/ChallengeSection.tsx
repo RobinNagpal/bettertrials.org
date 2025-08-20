@@ -3,26 +3,17 @@ export default function ChallengeSection() {
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-            The Challenge
-          </h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">The Challenge</h2>
           <p className="text-xl text-muted max-w-4xl mx-auto">
-            Hospitals or sites play the most critical role when it comes to
-            clinical trials. They have to act in the best interest of all - the
-            patient, the institution, and the sponsor who is conducting the
-            research.
+            Hospitals or sites play the most critical role when it comes to clinical trials. They have to act in the best interest of all - the patient, the
+            institution, and the sponsor who is conducting the research.
           </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">
           <div className="bg-accent p-8 rounded-lg">
             <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mb-6">
-              <svg
-                className="w-6 h-6 text-primary"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
@@ -31,23 +22,15 @@ export default function ChallengeSection() {
                 />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold text-foreground mb-4">
-              Contract Setup Complexity
-            </h3>
+            <h3 className="text-xl font-semibold text-foreground mb-4">Contract Setup Complexity</h3>
             <p className="text-muted">
-              Reviewing budgets and agreements across multiple hospitals can
-              take months, slowing down the entire trial initiation process.
+              Reviewing budgets and agreements across multiple hospitals can take months, slowing down the entire trial initiation process.
             </p>
           </div>
 
           <div className="bg-accent p-8 rounded-lg">
             <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mb-6">
-              <svg
-                className="w-6 h-6 text-primary"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
@@ -56,23 +39,15 @@ export default function ChallengeSection() {
                 />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold text-foreground mb-4">
-              Patient Recruitment Challenges
-            </h3>
+            <h3 className="text-xl font-semibold text-foreground mb-4">Patient Recruitment Challenges</h3>
             <p className="text-muted">
-              Doctors may not always have the right tools to quickly match
-              patients to active trials, leading to recruitment failures.
+              Doctors may not always have the right tools to quickly match patients to active trials, leading to recruitment failures.
             </p>
           </div>
 
           <div className="bg-accent p-8 rounded-lg">
             <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mb-6">
-              <svg
-                className="w-6 h-6 text-primary"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
@@ -81,21 +56,15 @@ export default function ChallengeSection() {
                 />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold text-foreground mb-4">
-              Administrative Burden
-            </h3>
-            <p className="text-muted">
-              Staff often rely on manual processes, emails, or spreadsheets to
-              track trial progress, creating inefficiencies.
-            </p>
+            <h3 className="text-xl font-semibold text-foreground mb-4">Administrative Burden</h3>
+            <p className="text-muted">Staff often rely on manual processes, emails, or spreadsheets to track trial progress, creating inefficiencies.</p>
           </div>
         </div>
 
         <div className="text-center mt-12">
           <p className="text-lg text-foreground font-medium">
-            That's why BetterTrails focuses on giving hospitals and research
-            units better tools so they can handle trials more efficiently
-            without disrupting patient care.
+            That’s why BetterTrails focuses on giving hospitals and research units better tools so they can handle trials more efficiently without disrupting
+            patient care.
           </p>
         </div>
       </div>
